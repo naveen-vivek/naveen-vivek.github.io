@@ -4,19 +4,21 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+-----------------------------------------------------------------------------------------------------------------
 ## Graph Optimization Researcher @ Purdue Mathematics
-
-Section Under Construction
+* Formulating metrics used to measure the connectivity & sparsity of a random graph under Dr. Thomas Sinclair
+* Analyzing the efficiency of a MATLAB semi-definite program (SDP) to calculate the Grothendieck graph norm
 
 ## Muliferroic Transistor Researcher @ Purdue ECE
-
-Section Under Construction
+* Explored the possibility of a multi-ferroic transistor & Magnetic RAM under Dr. Pramey Upadhyaya
+* Visualized the precession of a nanomagnet in an external magnetic field with CosmosScope
+* Simulated capacitor circuit analogy of Landau-Lifshitz-Gilbert (LLG) equation with LTSpice
 
 ## TensorFlow Model Developer @ Google x Purdue
-
-Section Under Construction
+* Contributing towards the TensorFlow Model Garden as part of a Google collaboration
+* Producing SOTA open-source machine learning algorithms in TensorFlow 2.x
+* Developing guidelines for software reproducibility and efficient machine learning code
 
 ## Lead Spacecraft Researcher @ NASA x Purdue
-
-Section Under Construction
+* Lead the design of the imaging system hardware for the NASA Solar Cruiser Mission (2025)
+* Prototyped downlinking system and performed image blur classification using OpenCV

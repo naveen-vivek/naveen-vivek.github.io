@@ -11,7 +11,7 @@ title                    : "Naveen Vivek"
 title_separator          : "-"
 name                     : &name "Naveen Vivek"
 description              : &description "personal description"
-url                      : https://naveen-vivek.github.io # Change link when local testing
+url                      : https://naveen-vivek.github.io # Change link when local testing http://127.0.0.1:4000 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "naveen-vivek/naveen-vivek.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
